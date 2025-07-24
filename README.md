@@ -20,7 +20,7 @@ I thrive on tackling **complex data challenges** through **collaborative problem
 
 Here's a breakdown of my technical toolkit:
 
-* **Programming Languages:** Python, SQL, C, Java, R, HTML, CSS, JavaScript
+* **Programming Languages:** Python, SQL, C, Java, HTML, CSS, JavaScript
 * **Data Science & Machine Learning:**
     * **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow/Keras
     * **Modeling/Concepts:** Regression Analysis, Hypothesis Testing, Predictive Modeling, Time-Series Forecasting (SARIMA, LSTM), Recommendation Systems (Collaborative Filtering, Content-Based Filtering)
