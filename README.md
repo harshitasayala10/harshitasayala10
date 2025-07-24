@@ -63,7 +63,7 @@ Here are some of my key projects, demonstrating my expertise in data analytics, 
 * **Key Achievements:** Automated data fetching (yfinance API), engineered streamlined ETL with **dbt** (including incremental UPSERT, error handling, dbt snapshots), and implemented **ARIMA models** for forecasting. Delivered actionable insights via intuitive Preset dashboards.
 * **Technologies:** `Apache Airflow`, `Snowflake`, `dbt`, `Preset`, `ARIMA`, `yfinance API`, `SQL`
 
-#### ⚖️ [LegalDoc AI – Intelligent Legal Document Assistant using LLMs and RAG]
+#### ⚖️ LegalDoc AI – Intelligent Legal Document Assistant using LLMs and RAG
 * **Description:** Built a **domain-specific chatbot** using **Retrieval-Augmented Generation (RAG)** to assist lawyers in legal research. Processed and embedded 10,000+ legal document chunks for semantic search.
 * **Key Achievements:** Integrated **OpenAI GPT-3.5** for clause-level answers with **>90% answer relevance**. Created an interactive **Streamlit** interface, reducing review time by ~60 mins/doc. Orchestrated pipeline with **LangChain**.
 * **Technologies:** `LLMs (OpenAI GPT-3.5)`, `RAG`, `LangChain`, `Streamlit`, `SentenceTransformers`, `FAISS`, `Python`
