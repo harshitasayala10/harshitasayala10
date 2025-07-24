@@ -50,7 +50,7 @@ Here are some of my key projects, demonstrating my expertise in data analytics, 
 
 #### 🏙️ [Smart Urban Planning - Optimizing City Layouts based on Air Quality Trends](https://github.com/meera2632/DATA-245_Project)
 * **Description:** Developed a comprehensive machine learning pipeline to **predict, classify, cluster, and forecast AQI** using diverse city-level datasets. Applied dual K-Means clustering to segment cities into 4 actionable urban typologies for targeted planning.
-* **Key Achievements:** Achieved **94.10% R² and RMSE <6** for AQI prediction (Random Forest, XGBoost); improved classification accuracy to **89%** (SMOTE, PCA). Delivered insights supporting UN SDG 11.
+* **Key Achievements:** Achieved **94.10% R² and RMSE <6** for AQI prediction (Random Forest, XGBoost); improved classification accuracy to **89%** (SMOTE, PCA). Delivered insights supporting **United Nations Sustainable Development Goals(SDG 11)**.
 * **Technologies:** `Random Forest`, `XGBoost`, `K-Means`, `SMOTE`, `PCA`, `Python`
 
 #### 🎵 [Spotify Trend and Popularity Prediction](https://github.com/wcc0/DATA226)
