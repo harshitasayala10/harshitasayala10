@@ -28,10 +28,10 @@ Here's a breakdown of my technical toolkit:
     * **Concepts/Tools:** NLTK, BERT, TF-IDF
     * **LLM Specific:** LangChain, SentenceTransformers, OpenAI GPT-3.5, FAISS, RAG Pipeline
 * **Data Engineering:** Apache Airflow, dbt (Data Build Tool), Apache Spark, Hadoop, Snowflake, MySQL, NoSQL, MongoDB, MongoDB Atlas
-* **Data Analysis & Visualization:** Tableau, Power BI, Superset, Preset, Matplotlib, Seaborn, R Studio, Streamlit
+* **Data Analysis & Visualization:** Tableau, Power BI, Superset, Preset, Matplotlib, Seaborn, Streamlit
 * **Cloud Platforms:** AWS (Amplify, EC2), Google Cloud Platform (GCP), Microsoft Azure
 * **Containers & Deployment:** Docker, Kubernetes
-* **Version Control & Development Tools:** Git, GitHub, Jupyter Notebook, Google Colab
+* **Version Control & Development Tools:** Git, GitHub, Google Colab
 * **Testing Tools & Technologies:** LoadRunner, Selenium, Jenkins, BDD Cucumber, JUnit, TestNG
 * **SDLC & Project Management:** JIRA, Confluence, Trello, Lucidchart
 * **Web Technologies:** Node.js, React
