@@ -38,6 +38,8 @@ Here's a breakdown of my technical toolkit:
 * **Productivity Tools:** Microsoft Office Suite (Word, Excel, PowerPoint, Outlook), Google Workspace (Docs, Sheets, Slides, Drive)
 
 ---
+### Current Research
+Developing LLM guardrails and hallucination prevention techniques using self-reflective, multi-agent frameworks for safe and reliable generative AI.
 
 ### 🚀 My Featured Projects
 
