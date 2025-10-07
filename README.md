@@ -41,6 +41,8 @@ Here's a breakdown of my technical toolkit:
 ### Current Research
 Developing LLM guardrails and hallucination prevention techniques using self-reflective, multi-agent frameworks for safe and reliable generative AI.
 
+---
+
 ### 🚀 My Featured Projects
 
 Here are some of my key projects, demonstrating my expertise in data analytics, machine learning, and data engineering. Each link leads to a dedicated repository with full details, code, and often visualizations or demos.
