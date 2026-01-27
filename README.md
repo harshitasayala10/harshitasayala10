@@ -50,7 +50,6 @@ Here are some of my key projects, demonstrating my expertise in data analytics, 
 #### ✈️ [AI-Integrated Travel Planning Platform Using LangChain & FastAPI](https://github.com/shashidharbabu/agentic-airbnb)
 * **Description:** Developed a full-stack, Airbnb-style travel planning platform with AI-powered recommendations, enabling users to search, book, and manage travel stays with personalized suggestions. Built end-to-end using ReactJS, Node.js (Express), MySQL, and Python FastAPI.
 * **Key Achievements:** Designed and deployed 5 containerized microservices using Docker and Kubernetes, enabling seamless service orchestration and horizontal scalability on AWS.
-
 Implemented Kafka message queues for asynchronous booking workflows, reducing booking confirmation latency by ~40% under simulated concurrent-user loads.
 Integrated Redux for efficient frontend state management across sessions, listings, and bookings, improving UI data consistency and performance.
 Leveraged LangChain-based AI pipelines to deliver intelligent travel recommendations and enhance user experience.
