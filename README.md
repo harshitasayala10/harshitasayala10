@@ -47,12 +47,27 @@ Developing LLM guardrails and hallucination prevention techniques using self-ref
 
 Here are some of my key projects, demonstrating my expertise in data analytics, machine learning, and data engineering. Each link leads to a dedicated repository with full details, code, and often visualizations or demos.
 
+#### ✈️ [AI-Integrated Travel Planning Platform Using LangChain & FastAPI](https://github.com/shashidharbabu/agentic-airbnb)
+* **Description:** Developed a full-stack, Airbnb-style travel planning platform with AI-powered recommendations, enabling users to search, book, and manage travel stays with personalized suggestions. Built end-to-end using ReactJS, Node.js (Express), MySQL, and Python FastAPI.
+* **Key Achievements:** Designed and deployed 5 containerized microservices using Docker and Kubernetes, enabling seamless service orchestration and horizontal scalability on AWS.
+Implemented Kafka message queues for asynchronous booking workflows, reducing booking confirmation latency by ~40% under simulated concurrent-user loads.
+Integrated Redux for efficient frontend state management across sessions, listings, and bookings, improving UI data consistency and performance.
+Leveraged LangChain-based AI pipelines to deliver intelligent travel recommendations and enhance user experience.
+* **Technologies:**  `FastAPI`, `LangChain`, `MySQL`, `Kafka`, `Docker`, `Python`, `Kubernetes`, `AWS`, `ReactJS`, `Redux`, `Node.js`, `Express`
+
+#### 🎨 [Reducing Attribute Leakage in Multi-Domain Text-to-Image Diffusion using LoRA and Attend-and-Excite]
+* **Description:** Designed a **multi-domain text-to-image diffusion framework** to mitigate attribute leakage and improve compositional fidelity across diverse visual domains. Integrated domain-specific **LoRA adapters** (portrait, food, landscape) into **Stable Diffusion**, enabling controlled and realistic image generation from complex prompts.
+* **Key Achievements:** Developed **semantic-weighted LoRA** composition using **CLIP** and **SBERT** embeddings to dynamically balance domain priors during inference.
+Integrated the Attend-and-Excite (A&E) mechanism to enforce token-level attention consistency, significantly reducing cross-attribute interference in multi-object prompts.
+Achieved notable performance gains over baseline SDXL models, improving FID (20.7), KID (0.0181), and CLIP-Sim (0.356), demonstrating enhanced prompt adherence and visual realism.
+* **Technologies:** `Stable Diffusion`, `LoRA`, `CLIP`, `SBERT`, `PyTorch`, `Diffusion Models`
+
 #### 🚨 [Big Data Analytics for UK Police Crime Data](https://github.com/katipally/crime-data-analysis)
 * **Description:** Designed and implemented an end-to-end big data analytics pipeline using **Apache Hadoop (HDFS)** and **Apache Spark (PySpark, MLlib)** to analyze massive, inconsistent UK Police Crime datasets. Identified crime hotspots using K-Means clustering and revealed significant crime type-resolution relationships with Chi-Square Test ($p=0.0$).
 * **Key Achievements:** Forecasted crime occurrences with **ARIMA(1,1,1)** (RMSE 16,830, MAE 13,426). Transformed data into actionable intelligence for data-informed policing.
 * **Technologies:** `Apache Hadoop`, `Apache Spark (PySpark, MLlib)`, `ARIMA`, `K-Means`, `Chi-Square Test`, `Parquet`
 
-#### 🏙️ [Smart Urban Planning - Optimizing City Layouts based on Air Quality Trends](https://github.com/meera2632/DATA-245_Project)
+#### 🏙️ [Air Quality Prediction and City Clustering Using Machine Learning for Sustainable Urban Planning](https://github.com/meera2632/DATA-245_Project)
 * **Description:** Developed a comprehensive machine learning pipeline to **predict, classify, cluster, and forecast AQI** using diverse city-level datasets. Applied dual K-Means clustering to segment cities into 4 actionable urban typologies for targeted planning.
 * **Key Achievements:** Achieved **94.10% R² and RMSE <6** for AQI prediction (Random Forest, XGBoost); improved classification accuracy to **89%** (SMOTE, PCA). Delivered insights supporting **United Nations Sustainable Development Goals(SDG 11)**.
 * **Technologies:** `Random Forest`, `XGBoost`, `K-Means`, `SMOTE`, `PCA`, `Python`
