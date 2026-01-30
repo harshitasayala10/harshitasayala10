@@ -47,7 +47,7 @@ Developing LLM guardrails and hallucination prevention techniques using self-ref
 
 Here are some of my key projects, demonstrating my expertise in data analytics, machine learning, and data engineering. Each link leads to a dedicated repository with full details, code, and often visualizations or demos.
 
-#### ✈️ [AI-Integrated Travel Planning Platform Using LangChain & FastAPI](https://github.com/shashidharbabu/agentic-airbnb)
+#### ✈️ [AI-Integrated Travel Planning Platform Using LangChain & FastAPI](https://github.com/harshitasayala10/Agentic-airbnb)
 * **Description:** Developed a full-stack, Airbnb-style travel planning platform with AI-powered recommendations, enabling users to search, book, and manage travel stays with personalized suggestions. Built end-to-end using ReactJS, Node.js (Express), MySQL, and Python FastAPI.
 * **Key Achievements:** Designed and deployed 5 containerized microservices using Docker and Kubernetes, enabling seamless service orchestration and horizontal scalability on AWS.
 Implemented Kafka message queues for asynchronous booking workflows, reducing booking confirmation latency by ~40% under simulated concurrent-user loads.
@@ -62,12 +62,12 @@ Integrated the Attend-and-Excite (A&E) mechanism to enforce token-level attentio
 Achieved notable performance gains over baseline SDXL models, improving FID (20.7), KID (0.0181), and CLIP-Sim (0.356), demonstrating enhanced prompt adherence and visual realism.
 * **Technologies:** `Stable Diffusion`, `LoRA`, `CLIP`, `SBERT`, `PyTorch`, `Diffusion Models`
 
-#### 🚨 [Big Data Analytics for UK Police Crime Data](https://github.com/katipally/crime-data-analysis)
+#### 🚨 [Big Data Analytics for UK Police Crime Data](https://github.com/harshitasayala10/Big-Data-Analytics-for-UK-Police-Crime-Data)
 * **Description:** Designed and implemented an end-to-end big data analytics pipeline using **Apache Hadoop (HDFS)** and **Apache Spark (PySpark, MLlib)** to analyze massive, inconsistent UK Police Crime datasets. Identified crime hotspots using K-Means clustering and revealed significant crime type-resolution relationships with Chi-Square Test ($p=0.0$).
 * **Key Achievements:** Forecasted crime occurrences with **ARIMA(1,1,1)** (RMSE 16,830, MAE 13,426). Transformed data into actionable intelligence for data-informed policing.
 * **Technologies:** `Apache Hadoop`, `Apache Spark (PySpark, MLlib)`, `ARIMA`, `K-Means`, `Chi-Square Test`, `Parquet`
 
-#### 🏙️ [Air Quality Prediction and City Clustering Using Machine Learning for Sustainable Urban Planning](https://github.com/meera2632/DATA-245_Project)
+#### 🏙️ [Air Quality Prediction and City Clustering Using Machine Learning for Sustainable Urban Planning](https://github.com/harshitasayala10/Air-Quality-Prediction-and-City-Clustering-Using-Machine-Learning-for-Sustainable-Urban-Planning)
 * **Description:** Developed a comprehensive machine learning pipeline to **predict, classify, cluster, and forecast AQI** using diverse city-level datasets. Applied dual K-Means clustering to segment cities into 4 actionable urban typologies for targeted planning.
 * **Key Achievements:** Achieved **94.10% R² and RMSE <6** for AQI prediction (Random Forest, XGBoost); improved classification accuracy to **89%** (SMOTE, PCA). Delivered insights supporting **United Nations Sustainable Development Goals(SDG 11)**.
 * **Technologies:** `Random Forest`, `XGBoost`, `K-Means`, `SMOTE`, `PCA`, `Python`
@@ -77,7 +77,7 @@ Achieved notable performance gains over baseline SDXL models, improving FID (20.
 * **Key Achievements:** Improved prediction accuracy by **30%** (RMSE reduced from 12.4 to 8.6). Developed interactive dashboards in **Apache Superset** for near-real-time trend insights.
 * **Technologies:** `Apache Airflow`, `Snowflake`, `ARIMA`, `Apache Superset`, `Python`, `Pandas`, `Matplotlib`
 
-#### 💹 [Cloud-Native Stock Price Analytics & Prediction](https://github.com/meera2632/DATA-226_Lab-2)
+#### 💹 [Cloud-Native Stock Price Analytics & Prediction](https://github.com/harshitasayala10/Cloud-Native-Stock-Price-Analytics-Prediction)
 * **Description:** Developed a robust, **cloud-native data analytics pipeline** for real-time and historical stock market data, utilizing **Apache Airflow for orchestration, Snowflake as a data warehouse, dbt for transformation, and Preset for visualization.**
 * **Key Achievements:** Automated data fetching (yfinance API), engineered streamlined ETL with **dbt** (including incremental UPSERT, error handling, dbt snapshots), and implemented **ARIMA models** for forecasting. Delivered actionable insights via intuitive Preset dashboards.
 * **Technologies:** `Apache Airflow`, `Snowflake`, `dbt`, `Preset`, `ARIMA`, `yfinance API`, `SQL`
