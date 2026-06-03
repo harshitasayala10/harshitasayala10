@@ -2,7 +2,7 @@
 
 ### About Me
 
-A **detail-oriented Master's student** in **Data Analytics** at SJSU, I possess a **strong foundation** in **data warehousing, ETL workflows, machine learning, and data visualization**.
+A **detail-oriented Master's student** in **Applied Data Science** at SJSU, I possess a **strong foundation** in **data warehousing, ETL workflows, AI/Machine Learning, and data visualization**.
 
 I'm deeply passionate about leveraging data to **extract meaningful insights** and **build intelligent solutions**, with interests spanning:
 * **Data Science**
@@ -11,6 +11,7 @@ I'm deeply passionate about leveraging data to **extract meaningful insights** a
 * **Generative AI**
 * **Data Analytics**
 * **Data Warehousing**
+* **Software Engineering**
 
 I thrive on tackling **complex data challenges** through **collaborative problem-solving** and **clear communication**, always eager to apply my **analytical and technical expertise** to drive **innovative and impactful business outcomes**.
 
@@ -20,26 +21,26 @@ I thrive on tackling **complex data challenges** through **collaborative problem
 
 Here's a breakdown of my technical toolkit:
 
-* **Programming Languages:** Python, SQL, C, Java, HTML, CSS, JavaScript
+* **Programming Languages:** Python, SQL, Java, C, JavaScript, Node.js, HTML5, CSS
 * **Data Science & Machine Learning:**
-    * **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow/Keras
-    * **Modeling/Concepts:** Regression Analysis, Hypothesis Testing, Predictive Modeling, Time-Series Forecasting (SARIMA, LSTM), Recommendation Systems (Collaborative Filtering, Content-Based Filtering)
+    * **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow/Keras, XGBoost
+    * **Modeling/Concepts:** egression Analysis, Hypothesis Testing, Predictive Modeling, Time-Series Forecasting (SARIMA, LSTM), Recommendation Systems (Collaborative Filtering, Content-Based Filtering), Feature Engineering, Statistical Analysis, A/B Testing, Model Deployment
+    * **Explainability & ML Lifecycle**: SHAP, LIME, MLflow
 * **Natural Language Processing (NLP) & Large Language Models (LLMs):**
     * **Concepts/Tools:** NLTK, BERT, TF-IDF
-    * **LLM Specific:** LangChain, SentenceTransformers, OpenAI GPT-3.5, FAISS, RAG Pipeline
-* **Data Engineering:** Apache Airflow, dbt (Data Build Tool), Apache Spark, Hadoop, Snowflake, MySQL, NoSQL, MongoDB, MongoDB Atlas
-* **Data Analysis & Visualization:** Tableau, Power BI, Superset, Preset, Matplotlib, Seaborn, Streamlit
+    * **LLM Specific:** LangChain, LangGraph, Hugging Face Transformers, SentenceTransformers, OpenAI GPT-3.5, RAG Pipeline, vLLM
+    * **Fine-Tuning & Alignment**: PEFT, QLoRA, GRPO/RLHF
+    * **Generative & Multimodal**: Stable Diffusion, CLIP
+* **Data Engineering and Big Data:** Apache Airflow, dbt (Data Build Tool), Apache Spark, Hadoop, Kafka, Snowflake
+* **Databases**: MySQL, PostgreSQL, MongoDB, MongoDB Atlas, NoSQL, Vector Databases (FAISS, Qdrant)
+* **Data Analysis & Visualization:** Tableau, Power BI, Superset, Preset, Matplotlib, Seaborn, Plotly, Streamlit
 * **Cloud Platforms:** AWS (Amplify, EC2), Google Cloud Platform (GCP), Microsoft Azure
-* **Containers & Deployment:** Docker, Kubernetes
-* **Version Control & Development Tools:** Git, GitHub, Google Colab
-* **Testing Tools & Technologies:** LoadRunner, Selenium, Jenkins, BDD Cucumber, JUnit, TestNG
+* **Containers, DevOps & CI/CD:** Docker, Kubernetes, Jenkins, CI/CD Pipelines, Git, GitHub
+* **Web Frameworks & APIs:** Express.js, FastAPI, Flask, React, Node.js, REST APIs, Swagger
+* **Testing Tools & Technologies:** LoadRunner, Selenium, BDD Cucumber, JUnit, TestNG
 * **SDLC & Project Management:** JIRA, Confluence, Trello, Lucidchart
 * **Web Technologies:** Node.js, React
 * **Productivity Tools:** Microsoft Office Suite (Word, Excel, PowerPoint, Outlook), Google Workspace (Docs, Sheets, Slides, Drive)
-
----
-### Current Research
-Developing LLM guardrails and hallucination prevention techniques using self-reflective, multi-agent frameworks for safe and reliable generative AI.
 
 ---
 
