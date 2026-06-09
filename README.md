@@ -88,7 +88,7 @@ Validated end-to-end across 3 use cases with a 5-criterion human-evaluation rubr
 * Conducted structured failure analysis across 3 categories(broken grammar, abrupt cutoffs, coherence drift), tracing each to character-level next-token prediction and limited context window.
 * **Technologies:**  `Python`, `PyTorch`, `Transformers`, `Self-Attention`, `Matplotlib`
 
-####  [IMDB Sentiment Analysis — NLP Binary Classification]
+####  [IMDB Sentiment Analysis - NLP Binary Classification]
 * **Description:** Built and compared **supervised NLP models** for binary sentiment classification on the **IMDB movie review** dataset, establishing a strong baseline and an experimental sequential model. Evaluated both with standard classification metrics to analyze the tradeoff between simple averaged **embeddings and contextual sequence modeling**.
 * **Key Achievements:** Processed **50K labeled reviews**(25K train / 25K test, perfectly balanced) with lowercasing, punctuation/stopword removal, lemmatization, and padding/truncation to max length 300, training embeddings from scratch. Built a MeanPool baseline (Embedding → Mean Pooling → Linear) that reached 87.3% accuracy, 0.8846 precision, 0.8584 recall, and 0.8713 F1, outperforming a BiLSTM experimental model (84.5% accuracy, 0.8426 F1).
 Demonstrated that key sentiment-bearing words captured via averaged embeddings can beat heavier sequential models on IMDB, identifying overfitting and sequence-length challenges as the **BiLSTM's** main limitations.
@@ -135,7 +135,7 @@ Benchmarked end-to-end on a Mobilint MLA100 NPU PCIe card using a trimmed-mean r
 * **Key Achievements:** Forecasted crime occurrences with **ARIMA(1,1,1)** (RMSE 16,830, MAE 13,426). Transformed data into actionable intelligence for data-informed policing.
 * **Technologies:** `Apache Hadoop`, `Apache Spark (PySpark, MLlib)`, `ARIMA`, `K-Means`, `Chi-Square Test`, `Parquet`
 
-####  [Spotify Trend and Popularity Prediction](https://github.com/harshitasayala10/DATA226/tree/main/Spotify_Project))
+####  [Spotify Trend and Popularity Prediction](https://github.com/harshitasayala10/DATA226/tree/main/Spotify_Project)
 * **Description:** Designed a **real-time + batch data pipeline** using **Apache Airflow** to automate daily ingestion of 50K+ records from the Spotify API into **Snowflake**. Built and tuned **ARIMA-based time-series models** to forecast artist popularity.
 * **Key Achievements:** Improved prediction accuracy by **30%** (RMSE reduced from 12.4 to 8.6). Developed interactive dashboards in **Apache Superset** for near-real-time trend insights.
 * **Technologies:** `Apache Airflow`, `Snowflake`, `ARIMA`, `Apache Superset`, `Python`, `Pandas`, `Matplotlib`
